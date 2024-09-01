@@ -2,30 +2,26 @@
 
   # Restaurant - Reservation page
 
-  ![Sushi Landing Page](https://i.ibb.co/wBf2hdD/Screenshot-2024-07-02-011119.png)
+  ![Restaurant Reservation page]()
 
   ## Description
   
-  A Fully functional Website which can be used in a restaurant for booking. This partocular website is built for a particular restaurant to make reservations
+  A fully functional website that can be used in a restaurant for bookings. This particular website is built for a particular restaurant to make reservations
 
   ## Demo
 
-  For the Demo there are several steps that need to be followed which will be described below.
+  For the Demo, several steps need to be followed, described below.
 
   ## Features
 
   - **HTML and CSS:** Developed using HTML and CSS for a lightweight and easy-to-understand structure.
-  -  **PHP:** Used this server side langauge for proper communication with the server for smooth transitions between the data and animations that are rendered with the server.
-  - **Eye-Catching Visuals:** Features a visually appealing design to showcase the sushi offerings.
+  -  **PHP:** Used this server-side language for proper communication with the server for smooth transitions between the data and animations that are rendered with the server.
+  - **Eye-Catching Visuals:** Features a visually appealing design to showcase the dish offerings and variety of menu.
   - **Modern Animations:** Incorporates modern animations to enhance the user experience.
 
   ## Installation
 
   1. Clone the repository:
-
-     ```bash
-     git clone https://github.com/0x1Luffy/sushi-landing-page.git
-     ```
 
   2. Install Xammp
      Install xammp and complete the requestories which are needed to be cmopleted after installation . after opening start the first two servers(Apache, SQL)
@@ -45,7 +41,7 @@
   ## Usage
 
   - Customize the content in the `home.php` and styles in the `style.css` file to suit your needs.
-  - Explore and modify animations in the `` file.
+  - Explore and modify animations in the `home.php` file.
 
   ## Contributing
 
